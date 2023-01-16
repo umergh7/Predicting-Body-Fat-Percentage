@@ -1,4 +1,5 @@
-# Exploratory-Data-Analyst-Projects
+# Predicting Body Fat Percentage
+
 Data Analysis
 This analysis aims to understand the correlation of different body measurements as they relate to human body fat percentages. In this study, we look at data from 252 men
 with measurements in the following areas:
