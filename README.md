@@ -1,6 +1,5 @@
 # Predicting Body Fat Percentage
 
-Data Analysis
 This analysis aims to understand the correlation of different body measurements as they relate to human body fat percentages. In this study, we look at data from 252 men
 with measurements in the following areas:
 
@@ -20,5 +19,5 @@ Biceps (extended) circumference (cm)
 Forearm circumference (cm)
 Wrist circumference (cm)
 
-The goal of this study is to further understand the correlation these different body measurements with body fat percentages. Further exploration of this project can be 
-to use this data to develop a model to predict the body density. Then using Siri's equation to predict the body fat percentage.
+
+The goal of this study is to further understand the correlation these different body measurements with body fat percentages and determine a model to predict body fat percentage. There are multiple ways to determine body fat percentage ranging from skinfold calipers, digital body fat monitors, and body composition analyzers - all of which can be innacurate and expensive. This project aims to deliver a model to predict body fat percentage with a reasonable amount of accuracy.
